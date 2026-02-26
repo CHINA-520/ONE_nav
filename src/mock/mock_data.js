@@ -420,6 +420,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/localsend.org"
         }
       ]
+    },
+    {
+      "id": "category-1772102518254",
+      "icon": "⏬",
+      "name": "下载工具",
+      "order": 8,
+      "sites": []
     }
   ],
   "title": "书签导航",
