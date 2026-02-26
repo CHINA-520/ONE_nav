@@ -426,7 +426,57 @@ export const mockData = {
       "icon": "⏬",
       "name": "下载工具",
       "order": 8,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1772102627258",
+          "name": "FetchV视频下载器",
+          "url": "https://fetchv.net/zh-cn",
+          "description": "FetchV - 专业网页视频下载器",
+          "icon": "https://www.faviconextractor.com/favicon/fetchv.net"
+        },
+        {
+          "id": "site-1772102666221",
+          "name": "Neat Download Manager",
+          "url": "https://www.neatdownloadmanager.com/index.php/en/",
+          "description": "免费轻量下载加速工具",
+          "icon": "https://www.faviconextractor.com/favicon/www.neatdownloadmanager.com"
+        },
+        {
+          "id": "site-1772102716379",
+          "name": "抖音视频下载",
+          "url": "https://www.15um.com/tools/douyin.php",
+          "description": "获取高清无水印原视频下载地址",
+          "icon": "https://www.faviconextractor.com/favicon/www.15um.com"
+        },
+        {
+          "id": "site-1772102758482",
+          "name": "微信视频下载",
+          "url": "https://www.15um.com/tools/weixin_v.php",
+          "description": "解析提取真实视频链接，一键保存到本地。",
+          "icon": "https://www.faviconextractor.com/favicon/www.15um.com?larger=true"
+        },
+        {
+          "id": "site-1772102858439",
+          "name": "视频·图片解析",
+          "url": "https://weibo.iiilab.com",
+          "description": "解析下载微博、秒拍、绿洲、小咖秀视频和图片。",
+          "icon": "https://favicon.is/weibo.iiilab.com"
+        },
+        {
+          "id": "site-1772102893550",
+          "name": "AB下载器",
+          "url": "https://abdownloadmanager.com",
+          "description": "多线程下载神器，速度快、界面美、零广告。",
+          "icon": "https://www.faviconextractor.com/favicon/abdownloadmanager.com"
+        },
+        {
+          "id": "site-1772102925425",
+          "name": "视频下载",
+          "url": "https://tubedown.cn",
+          "description": "帮助用户轻松保存网络视频。",
+          "icon": "https://www.faviconextractor.com/favicon/tubedown.cn"
+        }
+      ]
     }
   ],
   "title": "书签导航",
