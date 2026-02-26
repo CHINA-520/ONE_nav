@@ -183,7 +183,36 @@ export const mockData = {
       "icon": "🏦",
       "name": "数字银行",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1772090990046",
+          "name": "OCBC",
+          "url": "https://www.ocbc.com/personal-banking/home",
+          "description": "OCBC 为您提供全面个人银行服务：账户、信用卡、保险、贷款等，助您管理与增长财富。",
+          "icon": "https://www.faviconextractor.com/favicon/www.ocbc.com"
+        },
+        {
+          "id": "site-1772091036798",
+          "name": "瑞讯银行",
+          "url": "https://trade.swissquote.ch/my.policy",
+          "description": "瑞讯银行 是瑞士受监管的正规数字银行，提供外汇、股票、ETF、加密货币、差价合约等多资产交易及全面银行服务。",
+          "icon": "https://favicon.is/trade.swissquote.ch"
+        },
+        {
+          "id": "site-1772091094220",
+          "name": "iFAST Global Bank",
+          "url": "https://www.ifastgb.com/en/login",
+          "description": "英国受监管数字银行，支持多币种账户、高息存款、在线开户、无最低余额要求。存款享 FSCS £120,000 保护，适合全球个人与企业用户无缝跨境银行服务。",
+          "icon": "https://www.faviconextractor.com/favicon/www.ifastgb.com?larger=true"
+        },
+        {
+          "id": "site-1772091131163",
+          "name": "Dukascopy Bank MCA",
+          "url": "https://my.dukascopy.bank/#/login",
+          "description": "Dukascopy Bank MCA：瑞士在线多币种账户 – 随时随地在线开户，持有 24 种货币 + 黄金，享受瑞士银行级安全与便捷支付。",
+          "icon": "https://www.faviconextractor.com/favicon/my.dukascopy.bank"
+        }
+      ]
     }
   ],
   "title": "书签导航",
