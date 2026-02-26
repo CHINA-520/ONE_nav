@@ -141,6 +141,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/grok.com?larger=true"
         }
       ]
+    },
+    {
+      "id": "category-1772090662718",
+      "icon": "🔐",
+      "name": "云盘存储",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "书签导航",
