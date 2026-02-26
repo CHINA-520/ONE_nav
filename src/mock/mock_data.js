@@ -242,6 +242,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/international.schwab.com"
         }
       ]
+    },
+    {
+      "id": "category-1772091390519",
+      "icon": "🌐",
+      "name": "网络通信",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "书签导航",
