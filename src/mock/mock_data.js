@@ -168,6 +168,13 @@ export const mockData = {
           "url": "https://drive.google.com/drive/home",
           "description": "Google Drive（谷歌云盘）：免费云存储 + 实时协作办公神器，随时随地存取文件、共享资料、在线编辑文档。",
           "icon": "https://nav.778652.xyz/assets/img_1768094834852.png"
+        },
+        {
+          "id": "site-1772090871912",
+          "name": "MEGA ",
+          "url": "https://mega.nz/login",
+          "description": "MEGA是一家总部位于新西兰的云存储服务平台，成立于2013年。它最大的特色是隐私保护和安全性，采用端到端加密（零知识加密），确保只有用户本人才能访问自己的数据。",
+          "icon": "https://www.faviconextractor.com/favicon/mega.nz?larger=true"
         }
       ]
     }
