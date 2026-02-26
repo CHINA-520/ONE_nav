@@ -177,6 +177,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/mega.nz?larger=true"
         }
       ]
+    },
+    {
+      "id": "category-1772090940934",
+      "icon": "🏦",
+      "name": "数字银行",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "书签导航",
