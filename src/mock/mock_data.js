@@ -349,6 +349,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.spaceship.com"
         }
       ]
+    },
+    {
+      "id": "category-1772102011229",
+      "icon": "📚",
+      "name": "文本工具",
+      "order": 7,
+      "sites": []
     }
   ],
   "title": "书签导航",
