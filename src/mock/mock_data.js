@@ -213,6 +213,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/my.dukascopy.bank"
         }
       ]
+    },
+    {
+      "id": "category-1772091248885",
+      "icon": "📈",
+      "name": "证券交易",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "书签导航",
