@@ -219,7 +219,29 @@ export const mockData = {
       "icon": "📈",
       "name": "证券交易",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1772091295691",
+          "name": "moomoo 新加坡",
+          "url": "https://www.moomoo.com/sg/hans",
+          "description": "moomoo 是新加坡领先的在线交易平台，提供0佣金美股、星股、加密货币、ETF、期权等全球投资，一站式智能工具助你轻松投资。",
+          "icon": "https://www.faviconextractor.com/favicon/www.moomoo.com"
+        },
+        {
+          "id": "site-1772091325685",
+          "name": "盈透证券",
+          "url": "https://www.interactivebrokers.com.hk/sso/Login?c=t",
+          "description": "全球领先在线经纪商，低成本交易股票、期权、期货、外汇、债券，接入170+市场单一平台。专业工具，强大执行，适合香港及亚洲投资者。",
+          "icon": "https://www.faviconextractor.com/favicon/www.interactivebrokers.com.hk"
+        },
+        {
+          "id": "site-1772091352681",
+          "name": "嘉信理财",
+          "url": "https://international.schwab.com",
+          "description": "Charles Schwab 国际版：专为非美居民设计的美国投资平台，低成本交易美股、ETF 等。",
+          "icon": "https://www.faviconextractor.com/favicon/international.schwab.com"
+        }
+      ]
     }
   ],
   "title": "书签导航",
