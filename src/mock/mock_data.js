@@ -147,7 +147,29 @@ export const mockData = {
       "icon": "🔐",
       "name": "云盘存储",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1772090739101",
+          "name": "Dropbox",
+          "url": "https://www.dropbox.com/home",
+          "description": "Dropbox 是领先的云存储与协作平台，让你随时随地安全存储、同步、分享和编辑文件，支持 AI 智能搜索与团队高效工作。",
+          "icon": "https://www.faviconextractor.com/favicon/www.dropbox.com"
+        },
+        {
+          "id": "site-1772090765438",
+          "name": "InfiniCLOUD",
+          "url": "https://infini-cloud.net",
+          "description": "自管型全能云存储，让您的数据安全无忧。随时随地备份文件与文档，无存储限制烦恼。",
+          "icon": "https://www.faviconextractor.com/favicon/infini-cloud.net"
+        },
+        {
+          "id": "site-1772090812568",
+          "name": "Google Drive",
+          "url": "https://drive.google.com/drive/home",
+          "description": "Google Drive（谷歌云盘）：免费云存储 + 实时协作办公神器，随时随地存取文件、共享资料、在线编辑文档。",
+          "icon": "https://nav.778652.xyz/assets/img_1768094834852.png"
+        }
+      ]
     }
   ],
   "title": "书签导航",
