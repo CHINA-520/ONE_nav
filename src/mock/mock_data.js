@@ -278,6 +278,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.giffgaff.com?larger=true"
         }
       ]
+    },
+    {
+      "id": "category-1772101610950",
+      "icon": "💻",
+      "name": "网络相关",
+      "order": 6,
+      "sites": []
     }
   ],
   "title": "书签导航",
