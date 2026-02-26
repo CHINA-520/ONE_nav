@@ -146,7 +146,7 @@ export const mockData = {
       "id": "category-1772090662718",
       "icon": "🔐",
       "name": "云盘存储",
-      "order": 0,
+      "order": 2,
       "sites": [
         {
           "id": "site-1772090739101",
@@ -182,7 +182,7 @@ export const mockData = {
       "id": "category-1772090940934",
       "icon": "🏦",
       "name": "数字银行",
-      "order": 0,
+      "order": 3,
       "sites": [
         {
           "id": "site-1772090990046",
@@ -218,7 +218,7 @@ export const mockData = {
       "id": "category-1772091248885",
       "icon": "📈",
       "name": "证券交易",
-      "order": 0,
+      "order": 4,
       "sites": [
         {
           "id": "site-1772091295691",
