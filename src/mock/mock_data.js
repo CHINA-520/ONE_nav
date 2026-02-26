@@ -118,7 +118,29 @@ export const mockData = {
       "icon": "🤖",
       "name": " AI工具包",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1772089996554",
+          "name": "Gemini",
+          "url": "https://gemini.google.com/app",
+          "description": "Google 的个人 AI 助手。帮你写作、规划、头脑风暴、研究、学习等，体验生成式 AI 的强大力量。",
+          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com?larger=true"
+        },
+        {
+          "id": "site-1772090046003",
+          "name": "Microsoft Copilot",
+          "url": "https://copilot.microsoft.com",
+          "description": "Microsoft Copilot 是微软推出的免费 AI 助手，支持聊天、创作图像、改进写作、写代码、生成故事、简化复杂话题、推荐产品等。随时随地获取直接答案、创意灵感与实用帮助。",
+          "icon": "https://www.faviconextractor.com/favicon/copilot.microsoft.com?larger=true"
+        },
+        {
+          "id": "site-1772090078511",
+          "name": "Grok",
+          "url": "https://grok.com",
+          "description": "xAI 打造的 AI 助手，追求最大真相、实用与好奇心。实时搜索、图像生成、深度推理、代码编写，一站式智能对话。",
+          "icon": "https://www.faviconextractor.com/favicon/grok.com?larger=true"
+        }
+      ]
     }
   ],
   "title": "书签导航",
