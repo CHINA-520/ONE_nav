@@ -40,11 +40,31 @@ export const mockData = {
           "url": "https://www.dropbox.com/home",
           "description": "Dropbox 是领先的云存储与协作平台，让你随时随地安全存储、同步、分享和编辑文件，支持 AI 智能搜索与团队高效工作。",
           "icon": "https://www.faviconextractor.com/favicon/www.dropbox.com?larger=true"
+        },
+        {
+          "id": "site-1772089369967",
+          "name": "x.com",
+          "url": "https://x.com/home",
+          "description": "一家源自美国的社交网络与微博客平台，用户可以通过“推文”快速分享短消息、图片和视频，如今已成为全球最具影响力的社交媒体之一。",
+          "icon": "https://www.faviconextractor.com/favicon/x.com?larger=true"
+        },
+        {
+          "id": "site-1772089401144",
+          "name": "GitHub",
+          "url": "https://github.com",
+          "description": "GitHub 不仅是一个代码仓库，更是一个 集开发、协作、安全与 AI 辅助于一体的综合平台，让数百万开发者和企业在同一个生态中构建未来的软件。",
+          "icon": "https://www.faviconextractor.com/favicon/github.com?larger=true"
+        },
+        {
+          "id": "site-1772089436374",
+          "name": "Cloudflare",
+          "url": "https://dash.cloudflare.com",
+          "description": "Cloudflare 是一家全球领先的网络安全与性能优化公司，提供统一的“连接云（Connectivity Cloud）”，帮助网站、应用、AI 服务和企业网络更快、更安全地运行。",
+          "icon": "https://www.faviconextractor.com/favicon/dash.cloudflare.com?larger=true"
         }
       ]
     }
   ],
   "title": "书签导航",
-  "search": "google",
-  "_fileSha": "1116d52960e9266dc25d15f2f8662d7a5dec5e8d"
+  "search": "google"
 }
