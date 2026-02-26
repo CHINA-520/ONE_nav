@@ -284,7 +284,71 @@ export const mockData = {
       "icon": "💻",
       "name": "网络相关",
       "order": 6,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1772101656345",
+          "name": "IP地址信息",
+          "url": "https://ippure.com",
+          "description": "IPPure 是专业、易用的 IP 纯净度检测平台，一键检测 IP 定位、风险、指纹、泄露等。",
+          "icon": "https://www.faviconextractor.com/favicon/ippure.com"
+        },
+        {
+          "id": "site-1772101678984",
+          "name": "IP 工具箱",
+          "url": "https://ipcheck.ing/#/",
+          "description": "免费开源的 IP 工具箱：查看真实 IP、地理位置、WebRTC 泄漏、DNS 泄漏、网速测试等。",
+          "icon": "https://www.faviconextractor.com/favicon/ipcheck.ing"
+        },
+        {
+          "id": "site-1772101715264",
+          "name": "IPLark",
+          "url": "https://iplark.com",
+          "description": "查看本机IPv4/IPv6地址、地理位置、ISP、ASN、代理检测及多数据库对比。精准、快速、简洁。",
+          "icon": "https://www.faviconextractor.com/favicon/iplark.com"
+        },
+        {
+          "id": "site-1772101751109",
+          "name": "IP纯净度",
+          "url": "https://scamalytics.com/ip",
+          "description": "提供 IP 欺诈检测服务",
+          "icon": "https://www.faviconextractor.com/favicon/scamalytics.com"
+        },
+        {
+          "id": "site-1772101780358",
+          "name": "Google 测速",
+          "url": "https://fiber.google.com/speedtest",
+          "description": "Google Fiber 官方网速测试工具",
+          "icon": "https://www.faviconextractor.com/favicon/fiber.google.com"
+        },
+        {
+          "id": "site-1772101817953",
+          "name": "Speedtest 测速",
+          "url": "https://www.speedtest.net",
+          "description": "Speedtest 互联网连接性能和质量的权威方式",
+          "icon": "https://www.faviconextractor.com/favicon/www.speedtest.net"
+        },
+        {
+          "id": "site-1772101855627",
+          "name": "Cloudflare 测速",
+          "url": "https://speed.cloudflare.com",
+          "description": "Cloudflare 官方测速",
+          "icon": "https://www.faviconextractor.com/favicon/speed.cloudflare.com"
+        },
+        {
+          "id": "site-1772101901319",
+          "name": "大学测速",
+          "url": "https://test.ustc.edu.cn",
+          "description": "IPv4/IPv6网络速度测试服务",
+          "icon": "https://www.faviconextractor.com/favicon/test.ustc.edu.cn"
+        },
+        {
+          "id": "site-1772101949434",
+          "name": "Spaceship 域名注册",
+          "url": "https://www.spaceship.com",
+          "description": "域名注册与网络服务平台，提供域名注册、网站托管、商务邮箱等服务。",
+          "icon": "https://www.faviconextractor.com/favicon/www.spaceship.com"
+        }
+      ]
     }
   ],
   "title": "书签导航",
