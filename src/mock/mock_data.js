@@ -248,7 +248,36 @@ export const mockData = {
       "icon": "🌐",
       "name": "网络通信",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1772091439456",
+          "name": "短信接码",
+          "url": "https://hero-sms.com",
+          "description": "全球虚拟手机号接收短信验证码的在线服务平台",
+          "icon": "https://www.faviconextractor.com/favicon/hero-sms.com"
+        },
+        {
+          "id": "site-1772091487475",
+          "name": "德国·沃达丰",
+          "url": "https://www.vodafone.de/meinvodafone/services/teilnehmer/quickcheck?accordion=balanceDetails",
+          "description": "一家全球知名的跨国电信运营商",
+          "icon": "https://www.faviconextractor.com/favicon/www.vodafone.de"
+        },
+        {
+          "id": "site-1772091609868",
+          "name": "香港 Club SIM",
+          "url": "https://www.clubsim.com.hk/zh/",
+          "description": "香港Club SIM 预付费 SIM 卡与数据服务",
+          "icon": "https://www.faviconextractor.com/favicon/www.clubsim.com.hk?larger=true"
+        },
+        {
+          "id": "site-1772091660696",
+          "name": "giffgaff 英国电话卡",
+          "url": "https://www.giffgaff.com",
+          "description": "giffgaff 电话卡是一种灵活、低成本、无合约的英国 SIM 卡",
+          "icon": "https://www.faviconextractor.com/favicon/www.giffgaff.com?larger=true"
+        }
+      ]
     }
   ],
   "title": "书签导航",
