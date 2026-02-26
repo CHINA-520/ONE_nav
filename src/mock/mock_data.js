@@ -112,6 +112,13 @@ export const mockData = {
           "icon": "https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/spiral-notebook-color-icon.svg"
         }
       ]
+    },
+    {
+      "id": "category-1772089907162",
+      "icon": "🤖",
+      "name": " AI工具包",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "书签导航",
