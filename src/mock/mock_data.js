@@ -355,7 +355,71 @@ export const mockData = {
       "icon": "📚",
       "name": "文本工具",
       "order": 7,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1772102058763",
+          "name": "Google 翻译",
+          "url": "https://translate.google.com/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&op=translate",
+          "description": "即时翻译文字、网页、PDF、图片、语音和手写。",
+          "icon": "https://www.faviconextractor.com/favicon/translate.google.com"
+        },
+        {
+          "id": "site-1772102094489",
+          "name": "文字识别",
+          "url": "https://uutool.cn/ocr",
+          "description": "一键把图片、截图、照片中的文字提取成可编辑文本。",
+          "icon": "https://www.faviconextractor.com/favicon/uutool.cn"
+        },
+        {
+          "id": "site-1772102126863",
+          "name": "二维码识别",
+          "url": "https://uutool.cn/qrcode-decode",
+          "description": "二维码解码器，快速识别图片中的二维码内容",
+          "icon": "https://www.faviconextractor.com/favicon/uutool.cn"
+        },
+        {
+          "id": "site-1772102168017",
+          "name": "PDFCraft",
+          "url": "https://pdfcraft.devtoolcafe.com/zh",
+          "description": "开源免费的在线 PDF 工具箱",
+          "icon": "https://www.faviconextractor.com/favicon/pdfcraft.devtoolcafe.com"
+        },
+        {
+          "id": "site-1772102206887",
+          "name": "BentoPDF",
+          "url": "https://www.bentopdf.com/index.html",
+          "description": "无需上传文件、无需注册、无限使用，支持 50+ 种 PDF 操作。",
+          "icon": "https://www.faviconextractor.com/favicon/www.bentopdf.com"
+        },
+        {
+          "id": "site-1772102322091",
+          "name": "文件快递柜",
+          "url": "https://share.lanol.cn",
+          "description": "像取快递一样简单快捷。",
+          "icon": "https://favicon.is/share.lanol.cn"
+        },
+        {
+          "id": "site-1772102381935",
+          "name": "Wormhole",
+          "url": "https://wormhole.app",
+          "description": "私密文件传输：端到端加密 + 自动过期链接，保护你的数据不被永久存储。",
+          "icon": "https://www.faviconextractor.com/favicon/wormhole.app"
+        },
+        {
+          "id": "site-1772102422018",
+          "name": "TG汉化中文",
+          "url": "https://t.me/setlanguage/classic-zh-cn",
+          "description": "Telegram 应用界面切换到另一种语言（简体·中文）。",
+          "icon": "https://www.faviconextractor.com/favicon/t.me"
+        },
+        {
+          "id": "site-1772102454972",
+          "name": "局域网 传输",
+          "url": "https://localsend.org",
+          "description": "跨平台的文件共享工具，可让您将文件共享到附近的设备。",
+          "icon": "https://www.faviconextractor.com/favicon/localsend.org"
+        }
+      ]
     }
   ],
   "title": "书签导航",
