@@ -61,6 +61,55 @@ export const mockData = {
           "url": "https://dash.cloudflare.com",
           "description": "Cloudflare 是一家全球领先的网络安全与性能优化公司，提供统一的“连接云（Connectivity Cloud）”，帮助网站、应用、AI 服务和企业网络更快、更安全地运行。",
           "icon": "https://www.faviconextractor.com/favicon/dash.cloudflare.com?larger=true"
+        },
+        {
+          "id": "site-1772089546000",
+          "name": "Google搜索 🔍",
+          "url": "https://www.google.com",
+          "description": "Google 是全球领先的搜索引擎。输入关键词，即可快速搜索网页、图片、视频、新闻、地图等海量信息。智能、精准、可靠。",
+          "icon": "https://www.faviconextractor.com/favicon/www.google.com?larger=true"
+        },
+        {
+          "id": "site-1772089584115",
+          "name": "Google 地图",
+          "url": "https://www.google.com/maps",
+          "description": "Google Maps - 免费实时导航、街景、3D 地图、周边搜索与探索。查找路线、餐厅、景点，避开交通拥堵，随时随地发现世界。",
+          "icon": "https://nav.778652.xyz/assets/favicon_1769465608622.ico"
+        },
+        {
+          "id": "site-1772089616943",
+          "name": "订阅管理系统",
+          "url": "https://sub.mokevin.dpdns.org",
+          "description": "一个在线的个人订阅管理系统，提供了一款现代化的订阅管理工具，帮助用户轻松管理和追踪各种订阅服务的费用及续订情况",
+          "icon": "https://nav.778652.xyz/assets/img_1768046700427.png"
+        },
+        {
+          "id": "site-1772089659619",
+          "name": "MISUB",
+          "url": "https://sub.778652.xyz/login",
+          "description": "一个功能强大、界面精美的订阅管理与转换工具",
+          "icon": "https://nav.778652.xyz/assets/img_1768054742498.png"
+        },
+        {
+          "id": "site-1772089692590",
+          "name": "阅链接转换工具",
+          "url": "https://sublink.778652.xyz",
+          "description": " 免费在线订阅链接转换工具。聚合多源节点、自定义路由规则、JSON 双向编辑、UserAgent 转换，轻松管理你的代理订阅。",
+          "icon": "https://www.faviconextractor.com/favicon/sublink.778652.xyz?larger=true"
+        },
+        {
+          "id": "site-1772089734478",
+          "name": "网址导航",
+          "url": "https://nav.meiyue365.workers.dev",
+          "description": "每天花时间逐一点击检查、更新状态、剔除失效或变质的链接，宁可少而精，也不愿滥竽充数。",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJtNjEuNyAxNjkuNGwxMDEuNSAyNzhDOTIuMiA0MTMgNDMuMyAzNDAuMiA0My4zIDI1NmMwLTMwLjkgNi42LTYwLjEgMTguNC04Ni42bTMzNy45IDc1LjljMC0yNi4zLTkuNC00NC41LTE3LjUtNTguN2MtMTAuOC0xNy41LTIwLjktMzIuNC0yMC45LTQ5LjljMC0xOS42IDE0LjgtMzcuOCAzNS43LTM3LjhjLjkgMCAxLjguMSAyLjguMmMtMzcuOS0zNC43LTg4LjMtNTUuOS0xNDMuNy01NS45Yy03NC4zIDAtMTM5LjcgMzguMS0xNzcuOCA5NS45YzUgLjIgOS43LjMgMTMuNy4zYzIyLjIgMCA1Ni43LTIuNyA1Ni43LTIuN2MxMS41LS43IDEyLjggMTYuMiAxLjQgMTcuNWMwIDAtMTEuNSAxLjMtMjQuMyAybDc3LjUgMjMwLjRMMjQ5LjggMjQ3bC0zMy4xLTkwLjhjLTExLjUtLjctMjIuMy0yLTIyLjMtMmMtMTEuNS0uNy0xMC4xLTE4LjIgMS4zLTE3LjVjMCAwIDM1LjEgMi43IDU2IDIuN2MyMi4yIDAgNTYuNy0yLjcgNTYuNy0yLjdjMTEuNS0uNyAxMi44IDE2LjIgMS40IDE3LjVjMCAwLTExLjUgMS4zLTI0LjMgMmw3Ni45IDIyOC43bDIxLjItNzAuOWM5LTI5LjQgMTYtNTAuNSAxNi02OC43bS0xMzkuOSAyOS4zbC02My44IDE4NS41YzE5LjEgNS42IDM5LjIgOC43IDYwLjEgOC43YzI0LjggMCA0OC41LTQuMyA3MC42LTEyLjFjLS42LS45LTEuMS0xLjktMS41LTIuOXptMTgzLTEyMC43Yy45IDYuOCAxLjQgMTQgMS40IDIxLjljMCAyMS42LTQgNDUuOC0xNi4yIDc2LjJsLTY1IDE4Ny45QzQyNi4yIDQwMyA0NjguNyAzMzQuNSA0NjguNyAyNTZjMC0zNy05LjQtNzEuOC0yNi0xMDIuMU01MDQgMjU2YzAgMTM2LjgtMTExLjMgMjQ4LTI0OCAyNDhDMTE5LjIgNTA0IDggMzkyLjcgOCAyNTZDOCAxMTkuMiAxMTkuMiA4IDI1NiA4YzEzNi43IDAgMjQ4IDExMS4yIDI0OCAyNDhtLTExLjQgMGMwLTEzMC41LTEwNi4yLTIzNi42LTIzNi42LTIzNi42QzEyNS41IDE5LjQgMTkuNCAxMjUuNSAxOS40IDI1NlMxMjUuNiA0OTIuNiAyNTYgNDkyLjZjMTMwLjUgMCAyMzYuNi0xMDYuMSAyMzYuNi0yMzYuNiIvPjwvc3ZnPg=="
+        },
+        {
+          "id": "site-1772089769582",
+          "name": "笔记应用",
+          "url": "https://notes.778652.xyz",
+          "description": "一个部署于Cloudflare Workers + KV搭建的极简记事本应用",
+          "icon": "https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/spiral-notebook-color-icon.svg"
         }
       ]
     }
